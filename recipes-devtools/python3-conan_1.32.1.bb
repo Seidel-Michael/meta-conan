@@ -39,6 +39,7 @@ RDEPENDS_${PN} = "\
     python3-deprecation \
     python3-tqdm \
     python3-jinja2 \
+    python3-monotonic \
     python3-sqlite3 \
 "
 
@@ -61,6 +62,7 @@ DEPENDS_class-native = "\
     python3-deprecation-native \
     python3-tqdm-native \
     python3-jinja2-native \
+    python3-monotonic-native \
     python3-native \
 "
 
